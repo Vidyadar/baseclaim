@@ -1,0 +1,1 @@
+<inserted full index.tsx code from earlier>

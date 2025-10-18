@@ -1,0 +1,1 @@
+<inserted full AssetCard.tsx code from earlier>
